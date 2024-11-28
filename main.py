@@ -43,7 +43,7 @@ def main():
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "38:94:ed:2f:15:10", "ip_addr": "192.168.1.2"},
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "c4:2b:44:0d:b5:39", "ip_addr": "192.168.1.3"},
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "18:31:bf:cb:8e:a1", "ip_addr": "192.168.1.4"},
-            {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "e0:98:06:b5:0c:62", "ip_addr": "192.168.1.5"},
+            {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "e0:98:06:ab:97:2d", "ip_addr": "192.168.1.5"},
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "e8:db:84:c2:5e:18", "ip_addr": "192.168.1.6"},
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "e0:98:06:b4:e0:d7", "ip_addr": "192.168.1.7"},
             {"add_obj": "add_on", "host_name": f"{statip_count}", "mac_addr": "a0:d0:5b:b7:c6:34", "ip_addr": "192.168.1.8"},
